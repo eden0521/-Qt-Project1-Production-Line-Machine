@@ -1,5 +1,7 @@
 # Qt-Project1-產業機台介面
 
+## 專案介紹
+
 •	設計一個簡易的使用者介面，可供顯示目前機台運作狀態。
 
 • 使用LED作為實際機台的顯示介面。
@@ -53,3 +55,8 @@
    5. 關閉(程式結束)
    
    ① 關閉GPIO(unexport)。
+
+## 專案成果
+
+![image](https://cdn1-t17-techbang.pixfs.net/system/attached_images/2018/10/245247/original/30b1ef5cd893256e58a92565d284affc.png)
+![image](https://cdn0-t17-techbang.pixfs.net/system/attached_images/2018/10/245246/original/c221157c19cdefc8a51271bc9d55ad69.jpg)
