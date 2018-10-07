@@ -1,5 +1,11 @@
 # Qt-Project1-產業機台介面
 
+## 開發環境
+
+- Ubuntu 14.04
+- Qt Creator
+- 執行於 NVIDIA Jetson TK1
+
 ## 專案介紹
 
 •	設計一個簡易的使用者介面，可供顯示目前機台運作狀態。
